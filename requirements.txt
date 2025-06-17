@@ -1,4 +1,4 @@
-# requirements.txt (Corrected for Deployment)
+# requirements.txt
 
 # Core framework for the web app
 streamlit==1.33.0
@@ -6,8 +6,7 @@ streamlit==1.33.0
 # Data manipulation and reading/writing files
 pandas==2.2.1
 
-# --- PINNED VERSION TO FIX DEPLOYMENT ERROR ---
-# Engine for writing .xlsx Excel files. Version 3.2.0 is stable.
+# Engine for writing .xlsx Excel files. 
 xlsxwriter==3.2.0
 
 # Engine for reading modern .xlsx and .xlsm Excel files
