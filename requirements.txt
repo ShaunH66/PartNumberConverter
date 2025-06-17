@@ -1,0 +1,19 @@
+# requirements.txt
+
+# Core framework for the web app
+streamlit
+
+# Data manipulation and reading/writing files
+pandas
+
+# Engine for writing .xlsx Excel files
+xlsxwriter
+
+# Engine for reading modern .xlsx and .xlsm Excel files
+openpyxl
+
+# Engine for reading older .xls Excel files
+xlrd
+
+# Engine for reading binary .xlsb Excel files
+pyxlsb
